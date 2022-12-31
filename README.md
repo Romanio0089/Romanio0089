@@ -3,7 +3,7 @@
 I'm an IT professional, gamer and retro computer enthusiast, having around 100 computers in my collection. I work on a couple of projects, most notably:
  
 * **Vir0z4 Network**: a holdings group of some sort, it assembles a couple of IT and gaming related projects ([vir0z4.com](https://vir0z4.com))
-* **OpenFreebox Revived**: a reverse engineering project for the Freebox Revolution V6
+* **OpenFreebox Revived**: a reverse engineering project for the Freebox Revolution V6 ([re-openfreebox.github.io](https://re-openfreebox.github.io))
 
 I also work on subsidiaries of Vir0z4 Network:
 * **The VAIO Library**: the (better) Wikipedia for all Sony VAIO laptop computers ([vaiolibrary.com](https://vaiolibrary.com))
