@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, welcome to my GitHub profile!
+
+I'm an IT professional, gamer and retro computer enthusiast, having around 100 computers in my collection. I work on a couple of projects, most notably:
+ 
+* **Vir0z4 Network**: a holdings group of some sort, it assembles a couple of IT and gaming related projects ([vir0z4.com](https://vir0z4.com))
+* **OpenFreebox Revived**: a reverse engineering project for the Freebox Revolution V6
+
+I also work on subsidiaries of Vir0z4 Network:
+* **The VAIO Library**: the (better) Wikipedia for all Sony VAIO laptop computers ([vaiolibrary.com](https://vaiolibrary.com))
+* **GameBox Studio**: game development studio, based on a Discord community ([gamebox-studio.com](https://gamebox-studio.com))
+* **VeryPVP**: Minecraft Java server, featuring: Kit-PVP, a new concept called Rush-PVP, parkour, and more... (currently on hiatus)
+
+I post some of my stuff on my personal website [downtherack.free.fr](http://downtherack.free.fr).
 
 <!--
 **Romanio0089/Romanio0089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
