@@ -17,8 +17,6 @@ I also work on subsidiaries of Vir0z4 Network:
 * **GameBox Studio**: game development studio, based on a Discord community ([gamebox-studio.com](https://gamebox-studio.com))
 * **VeryPVP**: Minecraft Java server, featuring: Kit-PVP, a new concept called Rush-PVP, parkour, and more... (currently on hiatus)
 
-I post some of my stuff on my personal website [downtherack.free.fr](http://downtherack.free.fr). My other socials can be found on there.
-
 <!--
 **Romanio0089/Romanio0089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
